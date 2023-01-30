@@ -5,7 +5,7 @@ LamZyPo is a marketing firm with a need to optimize their website in an effort t
 Select the following link to view the webpage.  The link may also be copied and pasted into the browser for viewing. https://prettyinpurple.github.io/Challenge1/
 
 # Visuals
-LamZyPo Screenshot.jpeg
+./assets/LamZyPo Screenshot.jpeg
 
 # Usage
 Provides details about search engine optimization and how it may effect the organization.
